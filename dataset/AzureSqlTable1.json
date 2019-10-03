@@ -9,7 +9,8 @@
 		"type": "AzureSqlTable",
 		"schema": [],
 		"typeProperties": {
-			"schema": "vicky"
+			"schema": "dbo",
+			"table": "vicky"
 		}
 	}
 }
